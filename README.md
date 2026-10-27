@@ -79,11 +79,11 @@ Disk Structure Analysis Results
 
 <img width="550" height="240" alt="image" src="https://github.com/user-attachments/assets/34e2251c-38ee-4d99-b0b9-00dd8c12ffb7" />
 
-<img width="673" height="940" alt="image" src="https://github.com/user-attachments/assets/8f196020-c709-4374-8727-b28ec94d6767" />
+
 
 <img width="1061" height="121" alt="image" src="https://github.com/user-attachments/assets/7d592a3d-315a-44bd-95fb-84dcc70ecf9a" />
 
-<img width="962" height="849" alt="image" src="https://github.com/user-attachments/assets/e6f43525-9abd-4477-9573-df941f0cb733" />
+
 
 <img width="585" height="633" alt="image" src="https://github.com/user-attachments/assets/8e41763e-c90a-4df0-b79f-d43f52206ce4" />
 
